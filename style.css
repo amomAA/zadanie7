@@ -11,8 +11,8 @@ body {
 }
 
 img {
-    width: 400px;
-    height: 400px;
+    width: 401px;
+    height: 401px;
 }
 @media (max-width: 1024px){
     img {
