@@ -1,0 +1,22 @@
+.slide {
+    width: 300px;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.596);
+}
+
+.content {
+    margin-top: 10%;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+}
+@media (max-width: 1024px){
+    img {
+        width: 200px;
+        height: 200px;
+    }
+}
